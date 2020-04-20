@@ -1,4 +1,4 @@
-# nbdev template
+# Logic in Python
 
-Use this template to more easily create your nbdev project.
+A library for doing formal logic in Python
 
